@@ -101,21 +101,21 @@ The project includes eight queries for a project demonstration or review.
 - MySQL Workbench
 - The project SQL files downloaded or saved on your computer
 
-### Project Location
+## Project Location
 
 The project files are stored locally in the following folder:
 
-text
-OneDrive/
-└── AMPOLU - Personal/
-    └── Desktop/
-        └── MySQL/
-            └── project/
-                ├── college_placement_management_system.sql
-                └── sql_1.sql
+`OneDrive/AMPOLU - Personal/Desktop/MySQL/project/`
 
-**Note:** The filenames above are based on the files shown in File Explorer. Make sure the full filenames match your saved files, including their extensions.
+The folder contains these SQL files:
 
+```text
+project/
+├── college_placement_management_system.sql
+└── sql_1.sql
+```
+
+**Note:** These paths refer to the files on your local computer. To execute the project, open the SQL files using MySQL Workbench.
 ### Steps to Execute the Project
 
 1. Open **MySQL Workbench** on your Windows computer.
