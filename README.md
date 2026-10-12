@@ -131,7 +131,7 @@ project/
 8. Check the **Action Output** panel for errors after execution.
 9. Execute the eight final demonstration queries to verify the database and generate placement reports.
 
-If `sql_1.sql` contains additional queries or a separate part of the project, open and execute it separately when required.
+
 
 ### Verify the Database
 
