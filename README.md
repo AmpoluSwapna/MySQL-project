@@ -166,10 +166,10 @@ College-Placement-Management-Database/
 ├── sql_1.sql
 └── college_placement_erd.jpeg
 
-
 Include the ER diagram only if you have saved it in the repository. Add any additional SQL files that are part of the final project.
 
 **Important:** The project folder shown in File Explorer is a local folder. To make the project available on GitHub, upload or push the required files to your GitHub repository.
 ## Author
+https://github.com/AmpoluSwapna
 
 
